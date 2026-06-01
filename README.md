@@ -186,6 +186,7 @@ Payment failed after entering card details
   "assigned_team": "Payments Support"
 }
 ```
+<img width="1875" height="928" alt="Screenshot from 2026-06-01 10-55-52" src="https://github.com/user-attachments/assets/51362035-92f6-472f-9146-3170e4fd6580" />
 
 ---
 
